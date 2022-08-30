@@ -6,6 +6,7 @@ an API for a social network web application where users can share their thoughts
   
 Below is a video of the application:
 
+[play](https://drive.google.com/file/d/1tP-I4KF-w3BNZPxHGfy9TokjoLiiz0zJ/view?usp=sharing)
 
 ## User Story
 
